@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Felipebc2 and i'm a software enginner student from Brazil
-- 👀 I’m interested in learning a lot about code languages
-- 🌱 I’m currently learning more about Python, C, SQL, HTML+CSS+JAVASCRIPT and JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: fbc26232@gmail.com
