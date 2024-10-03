@@ -9,7 +9,7 @@
 <br>
 
 - I'm a software engineering student at IDP from Brazil.
-- Currently improving my skills as Data Research, Web Development, Full-end Developer and 3D Modeler.
+- Currently improving my skills as Data Research, Web Development, FullStack and 3D Modeler.
 - I'm interested in Front-End, A.I, Cybersecurity and 3D Modeling!
 <br><br>
 
