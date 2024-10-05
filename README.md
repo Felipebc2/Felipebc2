@@ -22,11 +22,10 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/-C/C++-A8B9CC?style=flat&logo=c&logoColor=ffffff)
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br>   
     
@@ -37,13 +36,20 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **Softwares, Tools and Operational Systems**:
   
-    ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+    ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
     ![Autodesk Maya Badge](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodeskmaya&logoColor=fff&style=for-the-badge)
+  
+<br>
+
+- **Data Bases**:
+
+   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
@@ -51,7 +57,8 @@
   
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
 
@@ -71,8 +78,14 @@
 
 <li>
 <a href="mailto:fbc26232@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  fbc26232-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  fbc26232@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<li>
+<a href="https://discord.com/channels/@fbc2master/" target="_blank">
+<img src="https://img.shields.io/badge/Discord: @fbc2master-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+</li>
+
 </ul>
