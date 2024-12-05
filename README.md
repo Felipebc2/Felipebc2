@@ -34,6 +34,7 @@
 </ul>
 
 <div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipebc2&show_icons=true&theme=highcontrast)
 </div>
 
