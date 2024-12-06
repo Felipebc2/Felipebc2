@@ -58,3 +58,11 @@
   </picture>
   <br/>
 </div>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <img src="https://streak-stats.demolab.com?user=Felipebc2&theme=radical&border_radius=3.5&locale=pt_BR&mode=weekly)](https://git.io/streak-stats"/>
+    <img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebc2&layout=compact"/>
+</div>
