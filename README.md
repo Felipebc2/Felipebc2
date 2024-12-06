@@ -58,6 +58,3 @@
   </picture>
   <br/>
 </div>
-
-
-
