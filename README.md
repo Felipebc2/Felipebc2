@@ -63,7 +63,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=570 src="https://streak-stats.demolab.com?user=Felipebc2&theme=radical&border_radius=3.5&locale=pt_BR&mode=weekly)](https://git.io/streak-stats"/>
     <img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebc2&langs_count=8&theme=radical&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook"/>
 </div>
 
