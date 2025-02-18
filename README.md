@@ -17,6 +17,8 @@
 
  👾 Currently my main languages ​​are C/C++, Python and Java
 
+ 😁 Sometimes I make some 3D models with Maya
+
  </div>
 
 <ul>
