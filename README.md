@@ -45,7 +45,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,html,cs,c,cpp,py,sklearn,javascript,java,typescript,lua,mysql,mongodb,md" />
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,github,git,bash,powershell,linux,ubuntu,docker,replit,vim" />
-    <img src="https://skillicons.dev/icons?i=blender,figma,unreal,unity,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,unreal,unity,arduino,raspberrypi,redis,flask,firebase,kali" />
 </div>
 
 <br/>
