@@ -15,8 +15,6 @@
  
  🌱 Currently improving my skills as Data Research, Web Development and FullStack.
 
- 👾 Currently my main languages ​​are C/C++, Python and Java
-
  😁 Sometimes I make some 3D models with Maya
 
  </div>
