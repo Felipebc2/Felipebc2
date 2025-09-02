@@ -13,7 +13,7 @@
  
  🤓 I'm a software engineering student at IDP
  
- 🌱 Currently improving my skills as Data Research, Web Development and FullStack.
+ 🌱 Currently improving my frontend skills
 
  😁 Sometimes I make some 3D models with Maya
 
