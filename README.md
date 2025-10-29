@@ -12,10 +12,6 @@
 <div align="center">
  
  🤓 I'm a software engineering student at IDP
- 
- 🌱 Currently improving my frontend skills
-
- 😁 Sometimes I make some 3D models with Maya
 
  </div>
 
