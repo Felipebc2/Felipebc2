@@ -43,7 +43,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,angular,html,cs,c,cpp,py,sklearn,javascript,java,typescript,lua,mysql,mongodb" />
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,github,git,bash,powershell,linux,ubuntu,docker,replit,vim,cassandra,vercel,md,azure" />
-    <img src="https://skillicons.dev/icons?i=blender,figma,unreal,unity,arduino,raspberrypi,redis,flask,firebase,bootstrap,kafka,obsidian,rabbitmq,supabase" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,unreal,unity,arduino,raspberrypi,redis,flask,firebase,bootstrap,kafka,obsidian,rabbitmq,supabase,postgres" />
 </div>
 
 <br/>
