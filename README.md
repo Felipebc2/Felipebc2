@@ -12,8 +12,24 @@
 <div align="center">
  
  🤓 I'm a software engineering student at IDP
+ 
+<div align="center">
+<span>
+    <a href="https://www.linkedin.com/in/felipebc2/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+</span><span>
+    <a href="mailto:felipeb.castro02@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    </a>
+</span><span>
+    <a href="https://discord.com/channels/@fbc2master/" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+    </a>
+</span>
+</div>
 
- </div>
+</div>
 
 <br/>
 <div align="center">
@@ -34,21 +50,6 @@
   </picture>
   <br/>
 </div>
-
-
-<ul>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/felipebc2/" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-        </a>
-        <a href="mailto:felipeb.castro02@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-        </a>
-        <a href="https://discord.com/channels/@fbc2master/" target="_blank">
-            <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
-    </div>
-</ul>
 
 <div align="center">
   <table>
