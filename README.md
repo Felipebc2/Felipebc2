@@ -55,11 +55,17 @@
   </picture>
   <br/>
 </div>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+
 <div align=center>
-    <img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebc2&langs_count=8&theme=radical&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook"/>
+    <img width=305 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebc2&langs_count=8&theme=radical&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook"/>
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=69&descAlignY=82"/>
+</p>
