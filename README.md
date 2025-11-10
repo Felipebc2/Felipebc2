@@ -15,6 +15,27 @@
 
  </div>
 
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,html,cs,c,cpp,py,sklearn,javascript,java,typescript,lua,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,github,git,bash,powershell,linux,ubuntu,docker,replit,vim,cassandra,vercel,md,azure" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,unreal,unity,arduino,raspberrypi,redis,flask,firebase,bootstrap,kafka,obsidian,rabbitmq,supabase,postgres" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+</div>
+
+
 <ul>
     <div align="center">
         <a href="https://www.linkedin.com/in/felipebc2/" target="_blank">
@@ -34,33 +55,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipebc2&show_icons=true&theme=radical)
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,html,cs,c,cpp,py,sklearn,javascript,java,typescript,lua,mysql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,github,git,bash,powershell,linux,ubuntu,docker,replit,vim,cassandra,vercel,md,azure" />
-    <img src="https://skillicons.dev/icons?i=blender,figma,unreal,unity,arduino,raspberrypi,redis,flask,firebase,bootstrap,kafka,obsidian,rabbitmq,supabase,postgres" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake-dark.svg">
-      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 
 <div align=center>
     <img width=305 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebc2&langs_count=8&theme=radical&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook"/>
