@@ -21,9 +21,9 @@
 
 <div align="center">
     <h2> 📊 Stats </h2>
-    <img src="https://github-readme-stats.shion.dev/api?username=Felipebc2&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="120"/>
-    <img src="https://streak-stats.demolab.com/?user=Felipebc2&theme=highcontrast&hide_border=true" height="120"/>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Felipebc2&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter+notebook" height="120"/>
+    <img src="https://github-readme-stats.shion.dev/api?username=Felipebc2&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="125"/>
+    <img src="https://streak-stats.demolab.com/?user=Felipebc2&theme=highcontrast&hide_border=true" height="125"/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Felipebc2&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter+notebook" height="125"/>
 </div>
 
 <div align="center">
