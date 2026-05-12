@@ -14,37 +14,10 @@
     <img src="https://img.shields.io/badge/6°_Semestre-IDP-7C3AED?style=flat"/>
 </p>
 
-# 🧰 Stacks
 
-<div>
-    <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,py" width="150"/>
-    </br>
-    <img src="https://skillicons.dev/icons?i=cs,c,cpp,lua" width="150"/>
-    <h4>Frontend</h4>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind" width="150"/>
-    </br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vercel" width="150"/>
-    <h4>Backend</h4>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,fastapi" width="150"/>
-    <h4>DataBases</h4>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" width="150"/>
-    </br>
-    <img src="https://skillicons.dev/icons?i=mysql,supabase,cassandra,prisma" width="150"/>
-    <h4>DevOps & Infra</h4>
-    <img src="https://skillicons.dev/icons?i=docker,azure,kafka,rabbitmq" width="150"/>
-    <h4>LLM's & AI</h4>
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch" width="75"/>
-    <h4>OS</h4>
-    <img src="https://skillicons.dev/icons?i=arch,ubuntu,kali,mint" width="150"/>
-    <h4>Tests</h4>
-    <img src="https://skillicons.dev/icons?i=gherkin,selenium" width="75"/>
-    <h4>Extras</h4>
-    <img src="https://skillicons.dev/icons?i=figma,blender,arduino,raspberrypi" width="150"/>
-    </br>
-    <img src="https://skillicons.dev/icons?i=obsidian,vim,vscode,cloudflare" width="150"/>
-    </br>
-    <img src="https://skillicons.dev/icons?i=cmake,neovim,npm,r" width="150"/>
+<div align="center">
+    <h1> 🧰 Stacks </h1>
+    <img width="1584" height="496" alt="Banner (1)" src="https://github.com/user-attachments/assets/2d05eef5-8dc8-4475-9a48-b5845f9ca68d" />
 </div>
 
 ## 🐍 Contributions
