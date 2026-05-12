@@ -14,20 +14,30 @@
     <img src="https://img.shields.io/badge/6°_Semestre-IDP-7C3AED?style=flat"/>
 </p>
 
-
 <div align="center">
-    <h1> 🧰 Stacks </h1>
+    <h2> 🧰 Stacks </h2>
     <img width="1584" height="496" alt="Banner (1)" src="https://github.com/user-attachments/assets/2d05eef5-8dc8-4475-9a48-b5845f9ca68d" />
 </div>
 
-## 🐍 Contributions
+<div align="center">
+    <h2> 📊 Stats </h2>
+    <img src="https://github-readme-stats.shion.dev/api?username=Felipebc2&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+    <img src="https://streak-stats.demolab.com/?user=Felipebc2&theme=highcontrast&hide_border=true" height="150"/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Felipebc2&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter+notebook" height="150"/>
+</div>
 
 <div align="center">
+  <h2> 🐍 Contributions </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipebc2/Felipebc2/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+    <h2>🏆 Trophies </h2>
+    <img alt="Git Trophies" src="https://github-profile-trophy.vercel.app/?username=Felipebc2&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=-?">
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Felipebc2.Felipebc2" />
