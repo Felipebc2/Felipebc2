@@ -13,21 +13,7 @@
  
  🤓 I'm a software engineering student at IDP
  
-<div align="center">
-<span>
-    <a href="https://www.linkedin.com/in/felipebc2/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-</span><span>
-    <a href="mailto:felipeb.castro02@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-    </a>
-</span><span>
-    <a href="https://discord.com/channels/@fbc2master/" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-    </a>
-</span>
-</div>
+
 
 </div>
 
@@ -51,36 +37,7 @@
   <br/>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- GitHub Stats -->
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Felipebc2&show_icons=true&theme=radical"
-          alt="Felipebc2 GitHub Stats"
-        />
-      </td>
-      <td align="center">
-        <!-- Top Languages -->
-        <img 
-          width="305"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebc2&langs_count=8&theme=radical&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook"
-          &langs_count=8
-          &theme=radical
-          &title_color=FF5733
-          &icon_color=FFC300
-          &layout=compact
-          &size_weight=0.5
-          &count_weight=0.5"
-          alt="Felipebc2 Most Used Languages"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=69&descAlignY=82"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>
 </p>
