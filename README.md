@@ -35,9 +35,4 @@
   </picture>
 </div>
 
-<div align="center">
-    <h2>🏆 Trophies </h2>
-    <img alt="Git Trophies" src="https://github-profile-trophy.vercel.app/?username=Felipebc2&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=-?">
-</div>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Felipebc2.Felipebc2" />
