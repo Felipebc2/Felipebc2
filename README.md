@@ -11,7 +11,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/felipebc2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:felipeb.castro02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/6°_Semestre-IDP-7C3AED?style=flat"/>
+    <img src="https://img.shields.io/badge/7°_Semestre-IDP-7C3AED?style=flat"/>
 </p>
 
 <div align="center">
